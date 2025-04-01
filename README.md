@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Edwin Santiago Castro  
 
-<!--
-**edwinscb/edwinscb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Ingeniero de Sistemas | Especialista en Python & IA**  
 
-Here are some ideas to get you started:
+💻 **Tecnologías principales**:  
+- **Lenguajes**: Python 🐍 (principal), C++, JavaScript  
+- **IA/ML**: PyTorch, YOLO, TensorFlow, Scikit-learn  
+- **Monitoreo**: Splunk, Dynatrace, BMC, ServiceNow  
+- **Cloud**: Google Cloud Platform (GCP), Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Actualmente trabajando en**:  
+- Automatización de monitoreo de sistemas críticos.  
+- Proyectos de Visión por Computador (Computer Vision).  
+
+🎓 **Proyecto destacado**:  
+**[Sistema de Tracking para Voleibol](https://github.com/edwinscb/tesis)**  
+✅ Modelo en tiempo real con YOLO y PyTorch  
+✅ Desplegado en GCP  
+
+
+📫 **¡Conectemos!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-castro-584b78190/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinsantiagocastrobuitrago@gmail.com)  
+
+---
+
+💡 **Más sobre mí**:  
+- 🏆 Certificado en **Machine Learning** (ej: Coursera, Udemy).  
+- 🌍 **Bilingüe** (Español nativo + Inglés avanzado).  
+- 🎯 Intereses: Automatización, IA aplicada al deporte, Open Source.  
